@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Odogwu-Valentine
-- 👀 I’m interested in front development
+- 👀 I’m interested in frontend engineering
 - 🌱 I’m currently learning full stacl web developemnt and software engineering
 - 💞️ I’m looking to collaborate on top front end web projects
 - 📫 You can email @ valentineodogwu@gmail.com
